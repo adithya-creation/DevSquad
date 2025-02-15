@@ -2,6 +2,8 @@
 
 A modern web application designed to help developers find their perfect hackathon teams. Built with React, TypeScript, and Firebase, it facilitates skill-based matching and team collaboration.
 
+🌐 **Live Site**: [DevSquad](https://thedevsquad.vercel.app/)
+
 ## ✨ Features
 
 ### 🤝 Team Formation
