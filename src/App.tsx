@@ -73,9 +73,14 @@ function App() {
               />
             </Routes>
           </main>
+          <footer className="text-black text-center py-4 text-sm">
+            <p>© {new Date().getFullYear()} Adithya Mittapally</p>
+          </footer>
           <Toaster position="top-right" />
         </div>
+        
       </Router>
+      
     </AuthProvider>
   );
 }

@@ -14,8 +14,8 @@ export default function Home() {
       icon: Users,
       title: "Skill-Based Matching",
       description: "Find teammates with complementary skills to build a balanced and effective team.",
-      color: "text-blue-600",
-      gradient: "from-blue-50 to-white"
+      color: "text-orange-600",
+      gradient: "from-orange-50 to-orange-100"
     },
     {
       icon: Calendar,
@@ -121,7 +121,7 @@ export default function Home() {
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
           transition={{ duration: 0.8 }}
-          className="bg-gradient-to-r from-blue-600 to-blue-700 text-white py-20 relative overflow-hidden"
+          className="bg-gradient-to-r from-blue-600 to-blue-700 text-white py-20 relative overflow-hidden rounded-lg"
         >
           <div className="absolute inset-0 bg-gradient-to-r from-blue-700 to-blue-800 opacity-20"></div>
           <div className="container mx-auto px-4 text-center relative z-10">
