@@ -15,7 +15,7 @@ export default function Home() {
       title: "Skill-Based Matching",
       description: "Find teammates with complementary skills to build a balanced and effective team.",
       color: "text-blue-600",
-      gradient: "from-blue-50 to-blue-100"
+      gradient: "from-blue-50 to-white"
     },
     {
       icon: Calendar,
