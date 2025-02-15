@@ -273,7 +273,7 @@ export default function Profile() {
 
   return (
     <div className="mt-16 sm:mt-20">
-      <div className="max-w-5xl mx-auto space-y-6 sm:space-y-8 p-4 sm:p-6 bg-gradient-to-br from-gray-50 to-blue-50 min-h-screen">
+      <div className="max-w-5xl mx-auto space-y-6 sm:space-y-8 p-4 sm:p-6 bg-gradient-to-br from-blue-50 to-blue-100 min-h-screen">
         <div className="bg-white rounded-2xl sm:rounded-3xl shadow-xl sm:shadow-2xl p-4 sm:p-8 border border-gray-100 transform transition-all hover:scale-[1.01]">
           {/* Header Section */}
           <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 sm:gap-8 mb-6 sm:mb-8 animate-fade-in">

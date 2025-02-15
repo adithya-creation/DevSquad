@@ -35,7 +35,7 @@ export default function Home() {
 
   return (
     <div className="mt-20">
-      <div className="min-h-screen bg-white overflow-hidden">
+      <div className="min-h-screen bg-gradient-to-br from-blue-50 to-blue-100 overflow-hidden">
         {/* Hero Section */}
         <motion.section 
           initial={{ opacity: 0, y: 50 }}
